@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/h1n054ur/hookforms)
   <img src="logo.png" alt="HookForms" width="340">
 </p>
 
